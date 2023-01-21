@@ -1,0 +1,33 @@
+create a databse 
+CREATE DATABASE it; 
+
+Create a table 
+CREATE TABLE `it`.`students` (`regno` bigint(11) NOT NULL , `name` VARCHAR(20) NOT NULL , 
+`email` VARCHAR(20) NOT NULL , `dob` DATE NOT NULL , `moblie` INT(11) NOT NULL  )
+
+insert
+INSERT INTO `students`(`regno`, `name`, `email`, `dob`) VALUES ('','','','')
+
+update
+UPDATE `students` SET `name`='jana' WHERE 1
+
+alter or add column 
+ALTER TABLE students ADD `mobile` INT(10); 
+
+select all or display
+SELECT * FROM `students` where 
+
+select specific column 
+SELECT `regno` FROM `students` WHERE 1
+
+
+delete all
+DELETE FROM `students` 
+
+delete specific 
+DELETE FROM `students` WHERE 1
+
+drop table
+DROP TABLE lab; 
+drop databse 
+DROP DATABASE it;
