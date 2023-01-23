@@ -4,7 +4,7 @@
 		VS Code
 		Easy Integration
 
-[Code Space](https://blacklovertech-expert-orbit-746gvv94j4pcpr5.github.dev/ "Code Space")
+[Code Space](https://blacklovertech-legendary-chainsaw-94rp7794r7xh9p6j.github.dev/)
 
 
 [Compiler C](https://www.tutorialspoint.com/online_c_compiler.php)
